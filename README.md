@@ -1,6 +1,7 @@
 <a href="https://steambnb-clone.herokuapp.com/#/">
-  <img src="http://wfarm1.dataknet.com/static/resources/icons/set94/894f0362.png" title="logo" align="left" height="90" />
+  <img src="http://wfarm1.dataknet.com/static/resources/icons/set94/894f0362.png" title="search" align="right" height="90" />
 </a>
+
 # Classify
 
 ## Object Relational Mapping for Ruby
